@@ -9,7 +9,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.5.10"
+    "@element-plus/icons-vue": "^2.3.1",
+    "element-plus": "^2.8.5",
+    "file-saver": "^2.0.5",
+    "less": "^4.2.0",
+    "vue": "^3.5.10",
+    "xlsx": "^0.18.5",
+    "xlsx-style-vite": "^0.0.2"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.1.4",
